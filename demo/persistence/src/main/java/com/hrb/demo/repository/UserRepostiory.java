@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * {@link com.hrb.demo.domain.User},{@link org.springframework.stereotype.Repository}
+ * {@link User},{@link org.springframework.stereotype.Repository}
  * */
 @Repository
 public class UserRepostiory {
